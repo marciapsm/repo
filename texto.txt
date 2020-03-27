@@ -5,3 +5,6 @@ linha 4
 cria função envia email
 	função alterada enviaEmail
 ALTERANDO NOVAMENTE
+
+Nova feature X
+	     Y
